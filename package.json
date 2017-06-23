@@ -1,0 +1,30 @@
+{
+  "name": "hapi-ntlm",
+  "version": "1.0.0",
+  "description": "An hapi authentication strategy to hanlde NTLM-authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mancioshell/hapi-ntlm.git"
+  },
+  "keywords": [
+    "hapi",
+    "ntlm",
+    "ldap",
+    "authentication"
+  ],
+  "author": "Alessandro Mancini \"dott.alessandro.mancini@gmail.com\"",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mancioshell/hapi-ntlm/issues"
+  },
+  "homepage": "https://github.com/mancioshell/hapi-ntlm",
+  "dependencies": {
+    "boom": "^5.1.0",
+    "hapi": "^16.4.3",
+    "ntlm-ad-client": "^2.3.0"
+  }
+}
