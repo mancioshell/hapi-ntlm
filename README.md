@@ -1,3 +1,5 @@
+[![NPM version](https://img.shields.io/npm/v/hapi-ntlm.svg?style=flat)](https://www.npmjs.com/package/hapi-ntlm)
+
 # hapi-ntlm
 
 An hapi authentication strategy to hanlde NTLM-authentication.
