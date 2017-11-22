@@ -1,6 +1,6 @@
 {
   "name": "hapi-ntlm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An hapi authentication strategy to hanlde NTLM-authentication.",
   "main": "index.js",
   "scripts": {
