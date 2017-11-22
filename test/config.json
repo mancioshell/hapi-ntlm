@@ -1,0 +1,8 @@
+{
+  "domain": "MY_DOMAIN",
+  "hostname": "MY_HOSTNAME",
+  "port": "MY_PORT",
+  "path": null,
+  "use_tls": false,
+  "tls_options": null
+}
