@@ -1,5 +1,5 @@
 const PORT = 3000
-const HOSTNAME = '127.0.0.1'
+const HOSTNAME = '0.0.0.0'
 
 const Hapi = require('hapi');
 const server = new Hapi.Server();
