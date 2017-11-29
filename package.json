@@ -1,6 +1,6 @@
 {
   "name": "hapi-ntlm",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "An hapi authentication strategy to hanlde NTLM-authentication.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/mancioshell/hapi-ntlm",
   "dependencies": {
+    "activedirectory": "^0.7.2",
     "boom": "^5.1.0",
     "hapi": "^16.4.3",
     "hoek": "^5.0.2",
